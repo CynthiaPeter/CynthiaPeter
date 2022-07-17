@@ -22,7 +22,7 @@
   <a href="https://twitter.com/iamCynthiaPeter">Twitter</a> |
   <a href="https://www.linkedin.com/in/cynthiapeter/">LinkedIn</a> |
   <a href="https://likeamfive.tech/">Likeam5 Blog</a> |
-  <a href="https://www.polywork.com/iamcynthiapeter/>Polywork Profile</a>
+  <a href="https://www.polywork.com/iamcynthiapeter/">Polywork Profile</a>
 </p>
 
 Now you're here, I have a confession to make. I love to code and solve problems, but I enjoy [writing](https://medium.com/@musingsthengrowth) more!
