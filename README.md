@@ -33,7 +33,7 @@ I love to hold the door open to new learners. I'll say writing is my super power
 
 I write Flutter, Dart, and sometimes Python. In my flutter journey, I've had enough bugs to last me a lifetime😁 and that's enough to tell me that I should give up. But I ain't. I will keep learning to code because the little things I learn allows me to write and share with newbies and wannabees. 
 
-I Currently work as a Developer Advocate at [Atsign](https://atsign.com/), where we are commited to making the internet a more human place, where privacy is a fundamental right and everyone owns their data.
+I Currently contribute to open source projects like [Atsign](https://atsign.com/), where we are commited to making the internet a more human place, where privacy is a fundamental right, and everyone owns their data.
 
 I strive to be better by learning, reading, and building healthy relationships. I don't have it all figured out. However, in my quest to find where I shine the brightest, I'll learn as I go and bet better.
 
