@@ -27,7 +27,7 @@
 
 ---
 
-Now you're here, I have a confession to make. I love to code and solve problems, but I enjoy [writing](https://medium.com/@iamcynthiapeter) more!
+I enjoy [writing!](https://cynthiapeter.com/series/technical-writing-basics). Writing gives me an opportunity to learn and share my experiences with people. 
 
 I love to hold the door open to new learners. I'll say writing is my super power💪🏿 But then, I have other superpowers, like amazing problem-solving skills, brainstorming, research, a remarkable human relationship skills, and a good sense of humor. You definitely want me on your team, I mean who doesn't need a good laugh? 🤷🏿‍♀️🤷🏿‍♀️.
 
