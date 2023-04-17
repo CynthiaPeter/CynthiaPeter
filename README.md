@@ -27,11 +27,9 @@
 
 ---
 
-Now you're here, I have a confession to make. I love to code and solve problems, but I enjoy [writing](https://medium.com/@musingsthengrowth) more!
+Now you're here, I have a confession to make. I love to code and solve problems, but I enjoy [writing](https://medium.com/@iamcynthiapeter) more!
 
 I love to hold the door open to new learners. I'll say writing is my super power💪🏿 But then, I have other superpowers, like amazing problem-solving skills, brainstorming, research, a remarkable human relationship skills, and a good sense of humor. You definitely want me on your team, I mean who doesn't need a good laugh? 🤷🏿‍♀️🤷🏿‍♀️.
-
-I write Flutter, Dart, and sometimes Python. In my flutter journey, I've had enough bugs to last me a lifetime😁 and that's enough to tell me that I should give up. But I ain't. I will keep learning to code because the little things I learn allows me to write and share with newbies and wannabees. 
 
 I Currently contribute to open source projects like [Atsign](https://atsign.com/), where we are commited to making the internet a more human place, where privacy is a fundamental right, and everyone owns their data.
 
