@@ -31,13 +31,13 @@ I enjoy [writing!](https://cynthiapeter.com/series/technical-writing-basics). Wr
 
 I love to hold the door open to new learners. I'll say writing is my super power💪🏿 But then, I have other superpowers, like amazing problem-solving skills, brainstorming, research, a remarkable human relationship skills, and a good sense of humor. You definitely want me on your team, I mean who doesn't need a good laugh? 🤷🏿‍♀️🤷🏿‍♀️.
 
-I Currently contribute to open source projects like [Atsign](https://atsign.com/), where we are commited to making the internet a more human place, where privacy is a fundamental right, and everyone owns their data.
+I Currently contribute to open source projects like [IgboAPI](https://igboapi.com/), [AsyncAPI Initiative](https://www.asyncapi.com/), and  [Atsign](https://atsign.com/).
 
-I strive to be better by learning, reading, and building healthy relationships. I don't have it all figured out. However, in my quest to find where I shine the brightest, I'll learn as I go and bet better.
+I strive to be better by learning, reading, and building healthy relationships. 
 
 - 👩🏾‍💻 Pronoun: She/Her
-- 📚 My current interests: Privacy, Internet Security, Crossplatform developement, IoT, and IoS Development.
-- 💬 Ask me about Technical Writing, Developer Advocacy, Getting Started in Tech, Healthy Living, and Books 😉.
+- 📚 My current interests: APIs, Cybersecurity, IoT, and documentation.
+- 💬 Ask me about [Like I'm Five](https://likeamfive.tech/) Blog, Technical Writing, Developer Advocacy, Getting Started in Tech, Healthy Living, and Books 😉.
 - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/iamCynthiaPeter), anyday, anytime.
 - ⚡ Fun fact: I speak Mandarin, English, Igbo, and a little Polish. I love to workout and Dance.😁
 
