@@ -27,18 +27,18 @@
 
 ---
 
-I enjoy [writing!](https://cynthiapeter.com/series/technical-writing-basics). Writing allows me to learn and share my experiences with people, so I love Open source projects.
+I enjoy writing. Writing allows me to learn from and share my experiences with others, which is why I love open-source projects.
 
-I love to hold the door open to new learners. I'll say writing is my superpower 💪🏿 But I have other superpowers, like amazing problem-solving, brainstorming, research, remarkable human relationship skills, and a good sense of humor. Do you want me on your team? I mean, who doesn't need a good laugh? 🤷🏿‍♀️🤷🏿‍♀️.
+I love to hold the door open for new learners. I'll say writing is my superpower 💪🏿, but I also possess other superpowers, such as exceptional problem-solving, brainstorming, research, remarkable human relationship skills, and a good sense of humor. Would you like me to be on your team? I mean, who doesn't need a good laugh? 🤷🏿‍♀️🤷🏿‍♀️.
 
-I currently contribute to open-source projects like [IgboAPI](https://igboapi.com/) and [AsyncAPI Initiative](https://www.asyncapi.com/) as an OSS Writer.
+I currently contribute to open-source projects, such as [IgboAPI](https://igboapi.com/) and the [AsyncAPI Initiative](https://www.asyncapi.com/), as an Open-Source Software (OSS) Writer.
 
 I strive to improve by learning, reading, and building healthy relationships. 
 
 - 👩🏾‍💻 Pronoun: She/Her
-- 📚 My current interests: APIs, Cybersecurity, IoT, and documentation.
+- 📚 My current interests: APIs, Cybersecurity, AI, and documentation.
 - 💬 Ask me about [Like I'm Five](https://likeamfive.tech/) Blog, Technical Writing, Developer Advocacy, Getting Started in Tech, Healthy Living, and Books 😉.
 - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/iamCynthiaPeter), anyday, anytime.
-- ⚡ Fun fact: I speak Mandarin, English, Igbo, and Polish. I love to workout and Dance.😁
+- ⚡ Fun fact: I speak Mandarin, English, Igbo, and Polish. I love to work out and Dance.😁
 
 <h3 align="center"> Stay Awesome </h3>
